@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+header h1{
+    color: #e17534;
+    font-family: 'Protest Revolution', sans-serif;
+}
+header h2{
+    color: #f5f4f6;
+    font-family: 'Roboto Slab', serif;
+}
+.lyrics{
+    text-align: center;
+    color: #b5c9e4;    
+}
+p {
+    margin: 0;
+    font-family: 'Caveat', cursive;
+    font-size: 1.4em;
+    text-shadow: 2px 2px 2px #646363;
+}
+span{
+    text-shadow: none;
+}
+section{
+    margin: 25px;
+}
+span.yell{
+    font-family: 'Permanent Marker', cursive;
+}
+#Outro.lyrics p{
+    font-family: 'Protest Revolution', sans-serif;
+    color: #e17534;
+    font-size: 1.7em;
+    text-shadow: none;
+}
+#change{
+    font-family: 'Protest Revolution', sans-serif;
+    color: #e17534;
+    letter-spacing: 4px;
+    font-size: 1.4em;
+}
+span.oh{
+    font-family: 'Lobster', sans-serif;
+}
+span.hold{
+    color: #e17534;
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 7px;
+}
